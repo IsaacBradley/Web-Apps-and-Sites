@@ -1,8 +1,8 @@
 # Web-Apps 
-*This repository exclusively features code snippets for typical web applications and websites.*
+*This repository exclusively features web applications in Python Flask*
 
 
-Web Apps and Web Development
+Doing web application in Python
 
 
 +254741437712 / aimewizard2000@gmail.com
